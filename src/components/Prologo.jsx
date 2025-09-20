@@ -88,6 +88,9 @@ const Prologo = () => {
             Sonic: Da igual, los derrotaremos como siempre.<br/>
             Shadow: Venga, la ceremonia de apertura está a punto de comenzar, vamos a tomar asiento.
         </p>
+        <p>
+            (Todos los corredores se reúnen en el E-Stadium y esperan hasta que aparezca DodonPa)
+        </p>
     </div>
   )
 }
