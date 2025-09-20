@@ -86,6 +86,7 @@ const Prologo = () => {
             Zavok: Grrr! Ustedes otra vez!<br/>
             Knuckles: Como pueden traer de vuelta a ese monstruo? No se acuerdan de lo que han hecho?<br/>
             Sonic: Da igual, los derrotaremos como siempre.<br/>
+            Shadow: Venga, la ceremonia de apertura está a punto de comenzar
         </p>
     </div>
   )
