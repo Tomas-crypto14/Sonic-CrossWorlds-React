@@ -89,7 +89,24 @@ const Prologo = () => {
             Shadow: Venga, la ceremonia de apertura está a punto de comenzar, vamos a tomar asiento.
         </p>
         <p>
-            (Todos los corredores se reúnen en el E-Stadium y esperan hasta que aparezca DodonPa)
+            (Todos los corredores se reúnen en el E-Stadium y esperan hasta que aparezca Dodon Pa)<br/>
+            Dodon Pa: Bienvenidos, corredores y público. Soy DodonPa y bienvenidos al CrossWorlds Grand Prix<br/>
+            (El público enloquece)<br/>
+            Como ya sabéis, esta competencia peligrosa y divertida decidirá quién es el mejor corredor de todo el espacio-tiempo debido
+            a que viajareis a lugares que habeis visto antes. Los que estuvieron conmigo la otra vez el Grand Prix era por equipos, pero esta vez
+            lo haremos de forma individual, eso quiere decir que la competencia será un todos contra todos. 23 corredores que competirán para ver quien es
+            el número uno.<br/>
+        </p>
+        <p>
+        Dodon Pa: Las reglas de la competencia son las siguientes: En esta competencia hay 7 Grand Prix en total con 3 clases dependiendo de su velocidad
+        de cilindrada y los corredores que consigan las 7 copas pasarán a la siguente clase. <br/>
+        (Se ve a Storm comer palomitas y Jet y Wave le miran de modo que le dicen "no interrumpas por la comida")<br/>
+        Storm: Vale, está bien, ya paro.<br/>
+        Dodon Pa: Cada vez que jugais un Grand Prix se os sorteará un rival para que podáis disfrutar de carreras épicas, 
+        y por último, el que gane la competencia en la clase más alta se llevará el premio en metálico y las 7 Chaos Emeralds en persona.
+        Os recordamos que el acceso al Death Egg Grand Prix es solo que ganen las seis disponibles. En la velocidad Super Sonic,
+        los 12 que lleguen a la Death Egg Grand Prix, será definitiva su clasificación.<br/>
+        Y ahora sin más dilación, que empiece la competencia! Adelante con las carreras!
         </p>
     </div>
   )

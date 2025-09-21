@@ -20,12 +20,6 @@ const Introduccion = () => {
         el CrossWorlds Grand Prix. El ganador de esta competencia se llevará una pasta gansa de un millón de dolares
         y el tesoro legendario que obtuvimos para animar más la competencia, las 7 Chaos Emeralds.
         </p>
-        <p>
-        Las reglas de la competencia son las siguientes: En esta competencia hay 7 Grand Prix en total con 3 clases dependiendo de su velocidad
-        de cilindrada y los que consigan las 7 copas pasarán a la siguente clase. Cada vez que jugais un Grand Prix se os sorteará un rival
-        para que podáis disfrutar de carreras épicas, y por último, 
-        el que gane la competencia se llevará el premio en metálico y las 7 Chaos Emeralds en persona
-        </p>
         <div className="image-container">
             <img src="./src/assets/Million_dollars.webp" width="200px" height="200px"></img>
             <img src="./src/assets/Chaos_Emeralds.webp" width="200px" height="200px"></img>
