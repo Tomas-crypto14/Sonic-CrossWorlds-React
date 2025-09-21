@@ -10,10 +10,6 @@ const Header = () => {
             <span>
                 <Link to="/Introduccion">Introduccion</Link>
             </span>
-            /
-            <span>
-                <Link to="/Sonic"><img src="./src/assets/Sonic.webp" width="100px" height="100px"/></Link>
-            </span>
         </div>
     </nav>
   )
