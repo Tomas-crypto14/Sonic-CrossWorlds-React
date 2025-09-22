@@ -5,7 +5,7 @@ const HeaderKnuckles = () => {
     <nav>
         <div>
             <span>
-                <Link to="/Kncukles">Velocidad alta(rápida)</Link>
+                <Link to="/Knuckles">Velocidad alta(rápida)</Link>
             </span>
             /
             <span>
@@ -13,7 +13,7 @@ const HeaderKnuckles = () => {
             </span>
             /
             <span>
-                <Link to="/Kncukles3">Velocidad Super Sonic</Link>
+                <Link to="/Knuckles3">Velocidad Super Sonic</Link>
             </span>
         </div>
     </nav>

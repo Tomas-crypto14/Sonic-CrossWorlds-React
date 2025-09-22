@@ -8,8 +8,12 @@ import Introduccion from './components/molecules/Introduccion'
 import Sonic from './components/pages/Sonic-Story/Sonic'
 import Sonic2 from './components/pages/Sonic-Story/Sonic2'
 import Sonic3 from './components/pages/Sonic-Story/Sonic3'
-import Tails from './components/pages/Tails'
-import Knuckles from './components/pages/Knuckles'
+import Tails from './components/pages/Tails-Story/Tails'
+import Tails2 from './components/pages/Tails-Story/Tails2'
+import Tails3 from './components/pages/Tails-Story/Tails3'
+import Knuckles from './components/pages/Knuckles-Story/Knuckles'
+import Knuckles2 from './components/pages/Knuckles-Story/Knuckles2'
+import Knuckles3 from './components/pages/Knuckles-Story/Knuckles3'
 import Amy from './components/pages/Amy'
 import Cream from './components/pages/Cream'
 import Big from './components/pages/Big'
@@ -51,7 +55,11 @@ function App() {
             <Route path="/Sonic2" element={<Sonic2/>}/>
             <Route path="/Sonic3" element={<Sonic3/>}/>
             <Route path="/Tails" element={<Tails/>}/>
+            <Route path="/Tails2" element={<Tails2/>}/>
+            <Route path="/Tails3" element={<Tails3/>}/>
             <Route path="/Knuckles" element={<Knuckles/>}/>
+            <Route path="/Knuckles2" element={<Knuckles2/>}/>
+            <Route path="/Knuckles3" element={<Knuckles3/>}/>
             <Route path="/Amy" element={<Amy/>}/>
             <Route path="/Cream" element={<Cream/>}/>
             <Route path="/Big" element={<Big/>}/>
