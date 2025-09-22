@@ -23,8 +23,12 @@ import Cream3 from './components/pages/Cream-Story/Cream3'
 import Big from './components/pages/Big-Story/Big'
 import Big2 from './components/pages/Big-Story/Big2'
 import Big3 from './components/pages/Big-Story/Big3'
-import Silver from './components/pages/Silver'
-import Blaze from './components/pages/Blaze'
+import Silver from './components/pages/Silver-Story/Silver'
+import Silver2 from './components/pages/Silver-Story/Silver2'
+import Silver3 from './components/pages/Silver-Story/Silver3'
+import Blaze from './components/pages/Blaze-Story/Blaze'
+import Blaze2 from './components/pages/Blaze-Story/Blaze2'
+import Blaze3 from './components/pages/Blaze-Story/Blaze3'
 import Shadow from './components/pages/Shadow'
 import Rouge from './components/pages/Rouge'
 import Omega from './components/pages/Omega'
@@ -76,7 +80,11 @@ function App() {
             <Route path="/Big2" element={<Big2/>}/>
             <Route path="/Big3" element={<Big3/>}/>
             <Route path="/Silver" element={<Silver/>}/>
+            <Route path="/Silver2" element={<Silver2/>}/>
+            <Route path="/Silver3" element={<Silver3/>}/>
             <Route path="/Blaze" element={<Blaze/>}/>
+            <Route path="/Blaze2" element={<Blaze2/>}/>
+            <Route path="/Blaze3" element={<Blaze3/>}/>
             <Route path="/Shadow" element={<Shadow/>}/>
             <Route path="/Rouge" element={<Rouge/>}/>
             <Route path="/Omega" element={<Omega/>}/>
