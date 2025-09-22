@@ -14,9 +14,15 @@ import Tails3 from './components/pages/Tails-Story/Tails3'
 import Knuckles from './components/pages/Knuckles-Story/Knuckles'
 import Knuckles2 from './components/pages/Knuckles-Story/Knuckles2'
 import Knuckles3 from './components/pages/Knuckles-Story/Knuckles3'
-import Amy from './components/pages/Amy'
-import Cream from './components/pages/Cream'
-import Big from './components/pages/Big'
+import Amy from './components/pages/Amy-Story/Amy'
+import Amy2 from './components/pages/Amy-Story/Amy2'
+import Amy3 from './components/pages/Amy-Story/Amy3'
+import Cream from './components/pages/Cream-Story/Cream'
+import Cream2 from './components/pages/Cream-Story/Cream2'
+import Cream3 from './components/pages/Cream-Story/Cream3'
+import Big from './components/pages/Big-Story/Big'
+import Big2 from './components/pages/Big-Story/Big2'
+import Big3 from './components/pages/Big-Story/Big3'
 import Silver from './components/pages/Silver'
 import Blaze from './components/pages/Blaze'
 import Shadow from './components/pages/Shadow'
@@ -61,8 +67,14 @@ function App() {
             <Route path="/Knuckles2" element={<Knuckles2/>}/>
             <Route path="/Knuckles3" element={<Knuckles3/>}/>
             <Route path="/Amy" element={<Amy/>}/>
+            <Route path="/Amy2" element={<Amy2/>}/>
+            <Route path="/Amy3" element={<Amy3/>}/>
             <Route path="/Cream" element={<Cream/>}/>
+            <Route path="/Cream2" element={<Cream2/>}/>
+            <Route path="/Cream3" element={<Cream3/>}/>
             <Route path="/Big" element={<Big/>}/>
+            <Route path="/Big2" element={<Big2/>}/>
+            <Route path="/Big3" element={<Big3/>}/>
             <Route path="/Silver" element={<Silver/>}/>
             <Route path="/Blaze" element={<Blaze/>}/>
             <Route path="/Shadow" element={<Shadow/>}/>
