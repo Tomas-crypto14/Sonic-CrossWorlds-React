@@ -6,6 +6,8 @@ import Header from './components/molecules/Header'
 import HeaderCharacters from './components/organisms/HeaderCharacters'
 import Introduccion from './components/molecules/Introduccion'
 import Sonic from './components/pages/Sonic'
+import Sonic2 from './components/pages/Sonic2'
+import Sonic3 from './components/pages/Sonic3'
 import Tails from './components/pages/Tails'
 import Knuckles from './components/pages/Knuckles'
 import Amy from './components/pages/Amy'
@@ -45,35 +47,33 @@ function App() {
             <Route path="/" element={<Home/>}/>
             <Route path="/Introduccion" element={<Introduccion/>}/>
             <Route path="/Prologo" element={<Prologo/>}/>
-          </Routes>
-        </BrowserRouter>
-        <BrowserRouter>
-        <HeaderCharacters/>
-          <Routes>
             <Route path="/Sonic" element={<Sonic/>}/>
-            <Route path="Tails" element={<Tails/>}/>
-            <Route path="Knuckles" element={<Knuckles/>}/>
-            <Route path="Amy" element={<Amy/>}/>
-            <Route path="Cream" element={<Cream/>}/>
-            <Route path="Big" element={<Big/>}/>
-            <Route path="Silver" element={<Silver/>}/>
-            <Route path="Blaze" element={<Blaze/>}/>
-            <Route path="Shadow" element={<Shadow/>}/>
-            <Route path="Rouge" element={<Rouge/>}/>
-            <Route path="Omega" element={<Omega/>}/>
-            <Route path="Vector" element={<Vector/>}/>
-            <Route path="Espio" element={<Espio/>}/>
-            <Route path="Charmy" element={<Charmy/>}/>
-            <Route path="Zavok" element={<Zavok/>}/>
-            <Route path="Zazz" element={<Zazz/>}/>
-            <Route path="Eggman" element={<Eggman/>}/>
-            <Route path="MetalSonic" element={<MetalSonic/>}/>
-            <Route path="Sage" element={<Sage/>}/>
-            <Route path="EggPawn" element={<EggPawn/>}/>
-            <Route path="Jet" element={<Jet/>}/>
-            <Route path="Wave" element={<Wave/>}/>
-            <Route path="Storm" element={<Storm/>}/>
+            <Route path="/Sonic2" element={<Sonic2/>}/>
+            <Route path="/Sonic3" element={<Sonic3/>}/>
+            <Route path="/Tails" element={<Tails/>}/>
+            <Route path="/Knuckles" element={<Knuckles/>}/>
+            <Route path="/Amy" element={<Amy/>}/>
+            <Route path="/Cream" element={<Cream/>}/>
+            <Route path="/Big" element={<Big/>}/>
+            <Route path="/Silver" element={<Silver/>}/>
+            <Route path="/Blaze" element={<Blaze/>}/>
+            <Route path="/Shadow" element={<Shadow/>}/>
+            <Route path="/Rouge" element={<Rouge/>}/>
+            <Route path="/Omega" element={<Omega/>}/>
+            <Route path="/Vector" element={<Vector/>}/>
+            <Route path="/Espio" element={<Espio/>}/>
+            <Route path="/Charmy" element={<Charmy/>}/>
+            <Route path="/Zavok" element={<Zavok/>}/>
+            <Route path="/Zazz" element={<Zazz/>}/>
+            <Route path="/Eggman" element={<Eggman/>}/>
+            <Route path="/MetalSonic" element={<MetalSonic/>}/>
+            <Route path="/Sage" element={<Sage/>}/>
+            <Route path="/EggPawn" element={<EggPawn/>}/>
+            <Route path="/Jet" element={<Jet/>}/>
+            <Route path="/Wave" element={<Wave/>}/>
+            <Route path="/Storm" element={<Storm/>}/>
           </Routes>
+          <HeaderCharacters/>
         </BrowserRouter>
       </div>
     </>
