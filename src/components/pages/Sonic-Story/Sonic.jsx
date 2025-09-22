@@ -1,4 +1,4 @@
-import HeaderSonic from '../organisms/HeaderSonic'
+import HeaderSonic from '../../organisms/HeaderSonic'
 import {Route, Routes} from 'react-router-dom'
 import Sonic2 from './Sonic2'
 import Sonic3 from './Sonic3'
