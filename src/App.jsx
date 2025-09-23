@@ -29,9 +29,15 @@ import Silver3 from './components/pages/Silver-Story/Silver3'
 import Blaze from './components/pages/Blaze-Story/Blaze'
 import Blaze2 from './components/pages/Blaze-Story/Blaze2'
 import Blaze3 from './components/pages/Blaze-Story/Blaze3'
-import Shadow from './components/pages/Shadow'
-import Rouge from './components/pages/Rouge'
-import Omega from './components/pages/Omega'
+import Shadow from './components/pages/Shadow-Story/Shadow'
+import Shadow2 from './components/pages/Shadow-Story/Shadow2'
+import Shadow3 from './components/pages/Shadow-Story/Shadow3'
+import Rouge from './components/pages/Rouge-Story/Rouge'
+import Rouge2 from './components/pages/Rouge-Story/Rouge2'
+import Rouge3 from './components/pages/Rouge-Story/Rouge3'
+import Omega from './components/pages/Omega-Story/Omega'
+import Omega2 from './components/pages/Omega-Story/Omega2'
+import Omega3 from './components/pages/Omega-Story/Omega3'
 import Vector from './components/pages/Vector'
 import Espio from './components/pages/Espio'
 import Charmy from './components/pages/Charmy'
@@ -86,8 +92,14 @@ function App() {
             <Route path="/Blaze2" element={<Blaze2/>}/>
             <Route path="/Blaze3" element={<Blaze3/>}/>
             <Route path="/Shadow" element={<Shadow/>}/>
+            <Route path="/Shadow2" element={<Shadow2/>}/>
+            <Route path="/Shadow3" element={<Shadow3/>}/>
             <Route path="/Rouge" element={<Rouge/>}/>
+            <Route path="/Rouge2" element={<Rouge2/>}/>
+            <Route path="/Rouge3" element={<Rouge3/>}/>
             <Route path="/Omega" element={<Omega/>}/>
+            <Route path="/Omega2" element={<Omega2/>}/>
+            <Route path="/Omega3" element={<Omega3/>}/>
             <Route path="/Vector" element={<Vector/>}/>
             <Route path="/Espio" element={<Espio/>}/>
             <Route path="/Charmy" element={<Charmy/>}/>
