@@ -38,9 +38,15 @@ import Rouge3 from './components/pages/Rouge-Story/Rouge3'
 import Omega from './components/pages/Omega-Story/Omega'
 import Omega2 from './components/pages/Omega-Story/Omega2'
 import Omega3 from './components/pages/Omega-Story/Omega3'
-import Vector from './components/pages/Vector'
-import Espio from './components/pages/Espio'
-import Charmy from './components/pages/Charmy'
+import Vector from './components/pages/Vector-Story/Vector'
+import Vector2 from './components/pages/Vector-Story/Vector2'
+import Vector3 from './components/pages/Vector-Story/Vector3'
+import Espio from './components/pages/Espio-Story/Espio'
+import Espio2 from './components/pages/Espio-Story/Espio2'
+import Espio3 from './components/pages/Espio-Story/Espio3'
+import Charmy from './components/pages/Charmy-Story/Charmy'
+import Charmy2 from './components/pages/Charmy-Story/Charmy2'
+import Charmy3 from './components/pages/Charmy-Story/Charmy3'
 import Zavok from './components/pages/Zavok'
 import Zazz from './components/pages/Zazz'
 import Eggman from './components/pages/Eggman'
@@ -101,8 +107,14 @@ function App() {
             <Route path="/Omega2" element={<Omega2/>}/>
             <Route path="/Omega3" element={<Omega3/>}/>
             <Route path="/Vector" element={<Vector/>}/>
+            <Route path="/Vector2" element={<Vector2/>}/>
+            <Route path="/Vector3" element={<Vector3/>}/>
             <Route path="/Espio" element={<Espio/>}/>
+            <Route path="/Espio2" element={<Espio2/>}/>
+            <Route path="/Espio3" element={<Espio3/>}/>
             <Route path="/Charmy" element={<Charmy/>}/>
+            <Route path="/Charmy2" element={<Charmy2/>}/>
+            <Route path="/Charmy3" element={<Charmy3/>}/>
             <Route path="/Zavok" element={<Zavok/>}/>
             <Route path="/Zazz" element={<Zazz/>}/>
             <Route path="/Eggman" element={<Eggman/>}/>
