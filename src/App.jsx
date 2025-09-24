@@ -57,9 +57,15 @@ import Eggman from './components/pages/Eggman'
 import MetalSonic from './components/pages/MetalSonic'
 import Sage from './components/pages/Sage'
 import EggPawn from './components/pages/EggPawn'
-import Jet from './components/pages/Jet'
-import Wave from './components/pages/Wave'
-import Storm from './components/pages/Storm'
+import Jet from './components/pages/Jet-Story/Jet'
+import Jet2 from './components/pages/Jet-Story/Jet2'
+import Jet3 from './components/pages/Jet-Story/Jet3'
+import Wave from './components/pages/Wave-Story/Wave'
+import Wave2 from './components/pages/Wave-Story/Wave2'
+import Wave3 from './components/pages/Wave-Story/Wave3'
+import Storm from './components/pages/Storm-Story/Storm'
+import Storm2 from './components/pages/Storm-Story/Storm2'
+import Storm3 from './components/pages/Storm-Story/Storm3'
 import Prologo from './components/molecules/Prologo'
 import {BrowserRouter, Route, Routes} from "react-router-dom"
 import './App.scss'
@@ -130,8 +136,14 @@ function App() {
             <Route path="/Sage" element={<Sage/>}/>
             <Route path="/EggPawn" element={<EggPawn/>}/>
             <Route path="/Jet" element={<Jet/>}/>
+            <Route path="/Jet2" element={<Jet2/>}/>
+            <Route path="/Jet3" element={<Jet3/>}/>
             <Route path="/Wave" element={<Wave/>}/>
+            <Route path="/Wave2" element={<Wave2/>}/>
+            <Route path="/Wave3" element={<Wave3/>}/>
             <Route path="/Storm" element={<Storm/>}/>
+            <Route path="/Storm2" element={<Storm2/>}/>
+            <Route path="/Storm3" element={<Storm3/>}/>
           </Routes>
           <HeaderCharacters/>
         </BrowserRouter>
