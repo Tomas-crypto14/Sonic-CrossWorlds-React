@@ -47,8 +47,12 @@ import Espio3 from './components/pages/Espio-Story/Espio3'
 import Charmy from './components/pages/Charmy-Story/Charmy'
 import Charmy2 from './components/pages/Charmy-Story/Charmy2'
 import Charmy3 from './components/pages/Charmy-Story/Charmy3'
-import Zavok from './components/pages/Zavok'
-import Zazz from './components/pages/Zazz'
+import Zavok from './components/pages/Zavok-Story/Zavok'
+import Zavok2 from './components/pages/Zavok-Story/Zavok2'
+import Zavok3 from './components/pages/Zavok-Story/Zavok3'
+import Zazz from './components/pages/Zazz-Story/Zazz'
+import Zazz2 from './components/pages/Zazz-Story/Zazz2'
+import Zazz3 from './components/pages/Zazz-Story/Zazz3'
 import Eggman from './components/pages/Eggman'
 import MetalSonic from './components/pages/MetalSonic'
 import Sage from './components/pages/Sage'
@@ -116,7 +120,11 @@ function App() {
             <Route path="/Charmy2" element={<Charmy2/>}/>
             <Route path="/Charmy3" element={<Charmy3/>}/>
             <Route path="/Zavok" element={<Zavok/>}/>
+            <Route path="/Zavok2" element={<Zavok2/>}/>
+            <Route path="/Zavok3" element={<Zavok3/>}/>
             <Route path="/Zazz" element={<Zazz/>}/>
+            <Route path="/Zazz2" element={<Zazz2/>}/>
+            <Route path="/Zazz3" element={<Zazz3/>}/>
             <Route path="/Eggman" element={<Eggman/>}/>
             <Route path="/MetalSonic" element={<MetalSonic/>}/>
             <Route path="/Sage" element={<Sage/>}/>
