@@ -53,10 +53,18 @@ import Zavok3 from './components/pages/Zavok-Story/Zavok3'
 import Zazz from './components/pages/Zazz-Story/Zazz'
 import Zazz2 from './components/pages/Zazz-Story/Zazz2'
 import Zazz3 from './components/pages/Zazz-Story/Zazz3'
-import Eggman from './components/pages/Eggman'
-import MetalSonic from './components/pages/MetalSonic'
-import Sage from './components/pages/Sage'
-import EggPawn from './components/pages/EggPawn'
+import Eggman from './components/pages/Eggman-Story/Eggman'
+import Eggman2 from './components/pages/Eggman-Story/Eggman2'
+import Eggman3 from './components/pages/Eggman-Story/Eggman3'
+import MetalSonic from './components/pages/MetalSonic-Story/MetalSonic'
+import MetalSonic2 from './components/pages/MetalSonic-Story/MetalSonic2'
+import MetalSonic3 from './components/pages/MetalSonic-Story/MetalSonic3'
+import Sage from './components/pages/Sage-Story/Sage'
+import Sage2 from './components/pages/Sage-Story/Sage2'
+import Sage3 from './components/pages/Sage-Story/Sage3'
+import EggPawn from './components/pages/EggPawn-Story/EggPawn'
+import EggPawn2 from './components/pages/EggPawn-Story/EggPawn2'
+import EggPawn3 from './components/pages/EggPawn-Story/EggPawn3'
 import Jet from './components/pages/Jet-Story/Jet'
 import Jet2 from './components/pages/Jet-Story/Jet2'
 import Jet3 from './components/pages/Jet-Story/Jet3'
@@ -132,9 +140,17 @@ function App() {
             <Route path="/Zazz2" element={<Zazz2/>}/>
             <Route path="/Zazz3" element={<Zazz3/>}/>
             <Route path="/Eggman" element={<Eggman/>}/>
+            <Route path="/Eggman2" element={<Eggman2/>}/>
+            <Route path="/Eggman3" element={<Eggman3/>}/>
             <Route path="/MetalSonic" element={<MetalSonic/>}/>
+            <Route path="/MetalSonic2" element={<MetalSonic2/>}/>
+            <Route path="/MetalSonic3" element={<MetalSonic3/>}/>
             <Route path="/Sage" element={<Sage/>}/>
+            <Route path="/Sage2" element={<Sage2/>}/>
+            <Route path="/Sage3" element={<Sage3/>}/>
             <Route path="/EggPawn" element={<EggPawn/>}/>
+            <Route path="/EggPawn2" element={<EggPawn2/>}/>
+            <Route path="/EggPawn3" element={<EggPawn3/>}/>
             <Route path="/Jet" element={<Jet/>}/>
             <Route path="/Jet2" element={<Jet2/>}/>
             <Route path="/Jet3" element={<Jet3/>}/>
