@@ -75,7 +75,7 @@ const Prologo = () => {
             Dr.Eggman: Ay, mira que eres.<br/>
             Sage(Mirando a Sonic, Tails, Knuckles y Amy): Me alegro mucho de veros, he venido para ayudar a mi padre a disfrutar
             de la competencia, con más de un millón de simulaciones en el que tendrá posibilidad de derrotaros.<br/>
-            Sonic: Bueno, siendo que tú serás la heredera del imperio Eggman también me encantaría enfretnarme a estas "simulaciones".<br/>
+            Sonic: Bueno, siendo que tú serás la heredera del imperio Eggman también me encantaría enfrentarme a estas "simulaciones".<br/>
             Amy: Se refiere a las de Eggman, Sonic.<br/>
         </p>
         <p>

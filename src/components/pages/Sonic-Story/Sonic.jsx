@@ -26,6 +26,19 @@ const Sonic = () => {
         Sonic: Perfecto! Me prepararé y le daré una buena a Shadow!<br/>
         Dodon Pa: Muy bien, todos a sus puestos. eL Crossworlds Grand Prix comienza ya!
       </p>
+
+      <p>
+        (Al ganar el Gran Premio Donpa)
+      </p>
+
+      <p>
+        DodonPa: Enhorabuena por ganar el Gran Premio Donpa, Sonic. Dinos, cómo se siente ganar al empezar la competencia?<br/>
+        Sonic: Pues muy bien, en la parte final Shadow casi me adelanta.<br/>
+        Shadow: Parece que has mejorado mucho, Sonic. Pero ni se te ocurra perder, quiero tomrme la revancha contigo al final de la competencia<br/>
+        Sonic: Tú tampoco, Shadow. Espero que te esfuerces mucho.<br/>
+        Shadow: Hum!
+        DodonPa: Vaya, parece que los dos rivales esperan competir al final de la competencia. Bueno, el Crossworlds Grand Prix debe continuar, suerte con las carreras.
+      </p>
        
         <HeaderSonic/>
           <Routes>
