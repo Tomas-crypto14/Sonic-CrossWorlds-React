@@ -36,9 +36,73 @@ const Sonic = () => {
         Sonic: Pues muy bien, en la parte final Shadow casi me adelanta.<br/>
         Shadow: Parece que has mejorado mucho, Sonic. Pero ni se te ocurra perder, quiero tomrme la revancha contigo al final de la competencia<br/>
         Sonic: Tú tampoco, Shadow. Espero que te esfuerces mucho.<br/>
-        Shadow: Hum!
+        Shadow: Hum!<br/>
         DodonPa: Vaya, parece que los dos rivales esperan competir al final de la competencia. Bueno, el Crossworlds Grand Prix debe continuar, suerte con las carreras.
       </p>
+
+      <p>
+        (Al ganar los Gran Premio Wisp, Boo Boom y Calabaza)
+      </p>
+
+      <p>
+        Sonic: Bien, gané 4 Grand Prix, si gano las otras tres pasaré a la siguiente clase.(Jet lo ve de una distancia)<br/>
+        Jet: Ya veremos quien ríe el último, gané más que tú y estoy cerca de dirigirme a la última copa para derrotarte, Sonic The Hedgehog!
+      </p>
+
+      <p>
+        (Al ganar la copa Coral)
+      </p>
+
+      <p>
+        Sonic: Vaya, así que me enfrentaré a tí en la copa Crystal, eh, Knuckles?<br/>
+        Knuckles: Preparate, Sonic! Esta vez yo te voy a ganar, vamos a resolver aquel encuentro en Angel Island!<br/>
+        Sonic: Perfecto. Listo cuando tú lo estés.
+      </p>
+
+      <p>
+        (Al ganar la Copa Crystal)
+      </p>
+
+      <p>
+        Dodon Pa: Señoras y señores, Sonic ha ganado las seis copas y va a la DeathEgg Grand Prix para enfrentarse a su siguiente rival.<br/>
+        Knuckles: Maldita sea, estaba a punto de ganarle. En fin, buena carrera, Sonic.<br/>
+        Sonic: Igualmente, Knuckles!(Los dos se dan la mano)<br/>
+        Wave: Vaya, así que encima esos dos siempre siguen siendo amigos después de una carrera tan bruta<br/>
+        Jet: Da igual, ese Grand Prix es mío, Sonic The Hedgehog!<br/>
+        Knuckles: Mejor dejaos de tonterías. Si queréis es una pelea, una pelea tendréis.<br/>
+        Sonic: Jet! No me esperaba verte como rival en la DeathEgg Grand Prix.<br/>
+        Jet: Pues aquí me tienes. Tú y yo vamos a solucionar esto.
+      </p>
+
+      <p>
+        (Inicia la Death Egg Grand Prix en la velocidad alta(rápida))
+      </p>
+
+      <p>
+        Dodon Pa: Por fin llega la Death Egg Grand Prix. Sonic y Jet se verán las caras en una rivalidad fuerte como el viento. El que gane
+        esta pasará a la siguiente clase.
+      </p>
+
+      <p>
+        (Sonic y Jet se preparan para correr)
+      </p>
+
+      <p>
+        Jet: Estás listo, Sonic?<br/>
+        Sonic: Preparado para que el halcón muerda el polvo. Vamos allá!
+      </p>
+
+      <p>
+        (Al acabar el DeathEgg Grand Prix)
+      </p>
+
+      <p>
+        Jet: No me lo puedo creer, he perdido contra Sonic??<br/>
+        Sonic: Puede que tú tuviste suerte, pero yo he ganado.<br/>
+        Jet: La próxima vez no perderé. Volveremos a encontrarnos en la clase definitiva, ya lo verás!<br/>
+        Dodon Pa: Parece que el erizo azul ha pasado a la siguiente clase. La gente se pregunta contra que corredores se va a enfrentar.
+      </p>
+
        
         <HeaderSonic/>
           <Routes>
