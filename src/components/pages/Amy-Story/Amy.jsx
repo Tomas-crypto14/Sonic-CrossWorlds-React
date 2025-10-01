@@ -49,8 +49,8 @@ const Amy = () => {
         </p>
 
         <p>
-          Big: Que mal. Amy me ha ganado.
-          Amy: Se siente, Big. La victoria es mía.
+          Big: Que mal. Amy me ha ganado.<br/>
+          Amy: Se siente, Big. La victoria es mía.<br/>
           Dodon Pa: Perfecto, pasas a la siguiente clase.
         </p>
         <HeaderAmy/>
