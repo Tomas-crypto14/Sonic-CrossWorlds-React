@@ -11,7 +11,7 @@ const Knuckles = () => {
           Dodon Pa: El Crossworlds Grand Prix está a punto de comenzar. Corredores, a vuestros puestos<br/>
           Knuckles: Así que el ganador también se llevará las 7 Chaos Emeralds aparte del dinero? Mola!<br/>
           Rouge: Cuidadito, equidna rojo, este dinero pronto será mío.<br/>
-          Knuckles: Murcielagita, tú te apuntaste a esta competencia por las Emeralds así que no te hagas la chulita. Debo prepararme para lo que se viene
+          Knuckles: Murcielagita, tú te apuntaste a esta competencia por las Emeralds así que no te hagas la chulita. Debo prepararme para lo que se viene.
         </p>
 
         <p>
@@ -20,7 +20,7 @@ const Knuckles = () => {
 
         <p>
           Rouge: Vaya, no me puedo creer que haya perdido.<br/>
-          Knuckles: Cuando quieras la revancha, ya nos encontraremos
+          Knuckles: Cuando quieras la revancha, ya nos encontraremos.
         </p>
 
         <p>
@@ -50,7 +50,15 @@ const Knuckles = () => {
           Knuckles: Jeje, ya lo veremos.<br/>
         </p>
 
-        <p></p>
+        <p>
+          (Al ganar el DeathEgg Grand Prix)
+        </p>
+
+        <p>
+          Knuckles: Toma ya, a la siguiente clase.<br/>
+          Vector: Esto ha sido un escándalo.<br/>
+          Dodon Pa: El equidna rojo pasa a la siguiente clase. Eso nadie se lo podría haber esperado.
+        </p>
         <HeaderKnuckles/>
         <Routes>
           <Route path="/Knuckles" element={<Knuckles/>}/>

@@ -10,7 +10,7 @@ const Tails = () => {
 
         <p>Dodon Pa: El CrossWorlds Grand Prix ha comenzado y los corredores se han acostumbrado a las pistas de esta competencia.<br/>
          (Tails prepara su vehículo)<br/>
-         Tails: Con las modificaciones que he puesto a mi vehículo, no tendré nada de que preocuparme<br/>
+         Tails: Con las modificaciones que he puesto a mi vehículo, no tendré nada de que preocuparme.<br/>
          Wave: Ya veremos, listillo.<br/>
          Tails: Wave!<br/>
          Wave: Los rivales a los que te enfrentas son más veloces y muy astutos que nosotros, sobretodo yo, he ganado el Donpa Grand Prix 
