@@ -34,8 +34,8 @@ const Zazz = () => {
         </p>
 
         <p>
-          Zazz: Tómala! He ganado! Tómala!
-          Zavok: Buen principio.
+          Zazz: Tómala! He ganado! Tómala!<br/>
+          Zavok: Buen principio.<br/>
           Dodon Pa: El loco morado pasa a la siguiente clase.
         </p>
 

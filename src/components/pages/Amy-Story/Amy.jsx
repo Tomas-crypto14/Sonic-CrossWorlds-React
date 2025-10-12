@@ -29,7 +29,7 @@ const Amy = () => {
           Silver: No le escuches, Amy.<br/>
           Amy: Ahhh, Silver! Como te va?<br/>
           Silver: Muy bien, ya gané el Gran Premio Calabaza, dentro de poco llegaré a la siguiente copa, puede que nos veamos allí. Bueno,
-          hasta la siguiente carrera.
+          hasta la siguiente carrera.<br/>
           Amy: Ya lo veremos, Silver. hasta luego. Y yo que pensaba que la competencia iba a ser más fácil.
         </p>
 
@@ -38,7 +38,7 @@ const Amy = () => {
         </p>
 
         <p>
-          Silver: Increíble, acabo de perder contra Amy!? Bueno, no me lo esperaba, pero te has adelantado a mis movimientos.
+          Silver: Increíble, acabo de perder contra Amy!? Bueno, no me lo esperaba, pero te has adelantado a mis movimientos.<br/>
           Amy: Buena carrera, Silver. En fin, me preparo para clasificarme.<br/>
           Silver: Espera! Oí que Big llegó a la Death Egg Grand Prix, lo que significa que te enfrentarás a él.<br/>
           Amy: Perfecto, gracias por el aviso, Silver!

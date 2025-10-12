@@ -24,7 +24,7 @@ const Big = () => {
 
         <p>
           Dodon Pa: Perfecto, parece que Big The Cat está a un paso de llegar a la siguiente clase. Como te sientes?<br/>
-          Big: Fenomenal, estoy superfeliz. Contra quien me enfrentaré ahora?
+          Big: Fenomenal, estoy superfeliz. Contra quien me enfrentaré ahora?<br/>
           Dodon Pa: Contra el equidna rojo.<br/>
           Big: Ah, debe ser el amigo ese de Amy. Knuckles, no?<br/>
           Knuckles: Acertaste, chaval. Espero que estés listo.
@@ -37,7 +37,7 @@ const Big = () => {
         <p>
           Knuckles: Imposible, he perdido contra Big?<br/>
           Amy: Jajajaja, no me puedo creer que no hayas podido contra él.<br/>
-          Knuckles: Uy, ya verás, ya!
+          Knuckles: Uy, ya verás, ya!<br/>
           Dodon Pa: Felicidades, Big! Pasas a la siguiente clase.<br/>
           Big: Bieeeen!
         </p>

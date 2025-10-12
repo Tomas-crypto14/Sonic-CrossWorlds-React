@@ -24,7 +24,7 @@ const Shadow = () => {
         </p>
 
         <p>
-          Metal Sonic: ...!
+          Metal Sonic: ...!<br/>
           Shadow: Parece que su memoria ha quedado humillada. Espero que a la próxima me sirvas de algo digno<br/>
           Dr.Eggman: Maldito seas, Shadow. La próxima vez no se te será tan fácil.<br/>
           Sonic: Así se hace!<br/>
@@ -38,7 +38,7 @@ const Shadow = () => {
         <p>
           Shadow: Que me voy a enfrentar a Rouge? Bromeas, no?<br/>
           Dodon Pa: Jojojojo, no es broma, chaval. Ella ha ganado el resto de copas por ahora al igual que tú y está lista para enfrentarse a ti<br/>
-          Shadow: Que se le va a hacer, acabemos rápido
+          Shadow: Que se le va a hacer, acabemos rápido.
         </p>
 
         <p>

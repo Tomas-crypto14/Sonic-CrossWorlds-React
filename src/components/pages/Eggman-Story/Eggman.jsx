@@ -33,7 +33,7 @@ const Eggman = () => {
 
         <p>
           Jet: Ha sido suerte y potra, nada más.<br/>
-          Eggman: Excusas, excusas, Jet. Pero ya sabes que esta vez he ganado, así que toca aguantarse.<br/>
+          Eggman: Excusas, excusas, Jet. Pero ya sabes que esta vez he ganado, así que toca aguantarse.
         </p>
 
         <p>
@@ -53,7 +53,7 @@ const Eggman = () => {
           Tails: Tu habilidad de conducción ha mejorado mucho, Eggman.<br/>
           Eggman: Vaya, mira quién es el envidioso ahora?<br/>
           Tails: Tendré que mejorar más si quiero pasar a la siguiente clase.<br/>
-          Eggman: Así es, zorrillo. Ahorqa déjame celebrar mi victoria. Juajajajaja!
+          Eggman: Así es, zorrillo. Ahora déjame celebrar mi victoria. Juajajajaja!
         </p>
 
         <HeaderEggman/>

@@ -23,7 +23,7 @@ const Vector = () => {
         <p>
           Vector: Eh, Silver, Blaze! Como os va por aquí?<br/>
           Silver: En esta competencia muy bien, estoy aquí para ganarme el dinero, y Blaze supongo que por lo mismo.<br/>
-          Blaze: Yo estoy aquí para entretenerme durante las vacaciones. 
+          Blaze: Yo estoy aquí para entretenerme durante las vacaciones.<br/>
           Además, ganar las Chaos Emeralds sería igual que ganar con las Sol Emeralds<br/>
           Vector: Yo por la pasta. Oh, que recuerdos del equipo que hicimos en el Grand Prix anterior.<br/>
           Silver: Ya, pero aquí todos competimos por la victoria. Así que ánimo y buena suerte!<br/>

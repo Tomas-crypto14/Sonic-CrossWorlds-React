@@ -11,7 +11,7 @@ const Wave = () => {
 
         <p>
           Wave: Por fin llegamos a la competencia, donde tendremos un premio a lo grande y además las gemas de los amigos de Sonic<br/>
-          Storm: El jefe estará listo para correr y llevarse la pasta a casa<br/>
+          Storm: El jefe estará listo para correr y llevarse la pasta a casa.<br/>
           Jet: Yo estoy para acabar de una vez por todas con Sonic the Hedgehog.<br/>
           Wave: Ya, ya. Tú con lo mismo de siempre, pero recuerda preocuparte por nosotros de vez en cuando. Bueno, voy a preparar mi
           Extreme Gear, suerte en la competencia.
@@ -22,7 +22,7 @@ const Wave = () => {
         </p>
 
         <p>
-          Wave: La tecnología de Donpa Motors es una pasada, gracias a mi Extreme Gear mejorado, puedo ganar a cualquier corredor<br/>
+          Wave: La tecnología de Donpa Motors es una pasada, gracias a mi Extreme Gear mejorado, puedo ganar a cualquier corredor.<br/>
           Shadow: Primero tendrías que enfrentarte a mí, no?<br/>
           Wave: Agggh! El rival oscuro de Sonic, qué quieres?<br/>
           Shadow: Solo decirte que voy a jugar al Boom Boo Grand Prix y esta vez no tendrás ninguna posibilidad de derrotarme.<br/>
@@ -51,7 +51,7 @@ const Wave = () => {
 
         <p>
           Omega: Errores calculados. Derrota inminente contra Wave the Swallow.<br/>
-          Wave: Lo he dicho, pan comido<br/>
+          Wave: Lo he dicho, pan comido.<br/>
           Jet: Pues mira tú que bien, las buenas noticias son que has llegado a la última copa para que la ganes y pases
           a la siguiente clase. La mala es que en esa tienes que enfrentarte a Storm.<br/>
           Wave: Qué?!<br/>

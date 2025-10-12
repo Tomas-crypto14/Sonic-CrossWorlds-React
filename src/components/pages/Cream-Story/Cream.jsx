@@ -14,7 +14,7 @@ const Cream = () => {
           Espio: Cream, no te alejes de mí cuando haya tiempo libre. Le dije a tu madre que te acompañaría.<br/>
           Cream: Es verdad, Señor Espio, gracias.<br/>
           Vector: Bueno, si ella está con nosotros, habrá posibilidades de tener el dinero si nos lo comparte, no?<br/>
-          (Charmy y Espio le miran)
+          (Charmy y Espio le miran)<br/>
           Dodon Pa: Cream y Cheese, acudan a la pista.<br/>
           Cream: Que bien, nos llaman. Vamos!
         </p>
@@ -29,10 +29,10 @@ const Cream = () => {
           Vector: Vaya, yo pensaba que era más buena con el Extreme Gear<br/>
           Espio: Parece que ha aprendido mucho de Sonic y los demás.<br/>
           Jet: Sí, sí, que gran espectáculo, gracias, gracias. Pero que os quede claro que Wave está a punto de llegar a la última de las copas
-          y ya sabéis, su Extreme Gear es muy avanzada que el que tiene vuerstra amiguita.<br/>
+          y ya sabéis, su Extreme Gear es muy avanzada que el que tiene vuestra amiguita.<br/>
           Cream: Eh! Que te lo has creído, Cheese y yo seguiremos ganando y nos enfrentaremos a la Señora Wave!<br/>
           Jet: Jajajajajaja!<br/>
-          Espio: Cream, reserva esa ira cuando te enfrentes a ella.
+          Espio: Cream, reserva esa ira cuando te enfrentes a ella.<br/>
           Cream: Está bien. Venga, Cheese, vamos.
         </p>
 

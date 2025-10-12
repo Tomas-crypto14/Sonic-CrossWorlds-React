@@ -10,10 +10,10 @@ const Zavok = () => {
         <h3>Velocidad alta(rápida)</h3>
 
         <p>
-          Zavok: Esa es la competencia del Crossworlds Grand Prix? Aquí haremos una base y planearemos comom ganar a Sonic y los demás.<br/>
+          Zavok: Esa es la competencia del Crossworlds Grand Prix? Aquí haremos una base y planearemos como ganar a Sonic y los demás.<br/>
           Zazz: Sí! Yo también quiero destrozar algo!<br/>
           Zavok: Eso es lo que me esperaba de ti, Zazz. Siempe atacando, sin importar cuál es el objetivo.<br/>
-          Zazz: Ah, sí? PPués mandame el objetivo y lo destrozaré! Muajajaja!<br/>
+          Zazz: Ah, sí? Pués mandame el objetivo y lo destrozaré! Muajajaja!<br/>
           Zavok: También ganaremos esta competencia para ganarnos las Chaos Emeralds!
         </p>
 
@@ -25,7 +25,7 @@ const Zavok = () => {
           Zavok: Esta competencia no es nada dificil, puedo ganarla con los ojos cerrados.<br/>
           Eggman: Pues más te vale tener suerte. Te enfrentarás a Metal Sonic en la siguiente carrera.<br/>
           Zavok: Vaya, vaya, si es el buen doctor. Hace tiempo que no te veía, cómo estás?<br/>
-          Eggman: Pues mira tú, yo intentando ganar la competencia para conseguir el dinero. Veo que tú estás por otros planes<br/>
+          Eggman: Pues mira tú, yo intentando ganar la competencia para conseguir el dinero. Veo que tú estás por otros planes.<br/>
           Zavok: Bien sabido, Eggman. Zavok es poderoso!<br/>
           Eggman: Espero que me lo demuestres cuando te enfrentes a Metal Sonic.
         </p>

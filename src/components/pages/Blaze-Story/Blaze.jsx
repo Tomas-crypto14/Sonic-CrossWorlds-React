@@ -42,7 +42,7 @@ const Blaze = () => {
           Zavok: No me fastidies. No crees que deberías prepararte a conciencia? Te vas a enfrentar a mí ahora, princesita<br/>
           Amy: Contra Zavok? No fastidies.<br/>
           Zavok: Ha sido algo de mala suerte que nos topáramos aquí y ahora. Prepárate, a diferencia de Eggman no seré blando contigo. Jajajaja!<br/>
-          Knuckles: Blaze, ten cuidado con Zavok, aunque su habilidad sea similar a la tuya, ha mejorado su conducción que la última vez.
+          Knuckles: Blaze, ten cuidado con Zavok, aunque su habilidad sea similar a la tuya, ha mejorado su conducción que la última vez.<br/>
           Blaze: Descuidad, yo también mejoré mis habilidades de conducción al volver a casa y al estar de vacaciones.
         </p>
 
@@ -62,9 +62,9 @@ const Blaze = () => {
         <p>
           Zavok: No puede ser, he perdido contra una princesa y encima de otra dimensión?<br/>
           Blaze: Se siente, el dicho es no jugar el fuego con el fuego, o es jugar el fuego con el fuego?<br/>
-          Zavok: Grrr! Pagarás por esto!
-          Amy: Lo has conseguido, Blaze! Has pasado a la siguiente clase!
-          Blaze: Sí, espero seguir con la competencia.
+          Zavok: Grrr! Pagarás por esto!<br/>
+          Amy: Lo has conseguido, Blaze! Has pasado a la siguiente clase!<br/>
+          Blaze: Sí, espero seguir en la competencia.
         </p>
         <HeaderBlaze/>
         <Routes>

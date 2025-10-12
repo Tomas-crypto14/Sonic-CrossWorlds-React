@@ -12,7 +12,7 @@ const Sage = () => {
         <p>
           Dr.Eggman: Por fin estamos aquí, hija mía, en el CrossWorlds Grand Prix.<br/>
           Sage: Este estadio... es precioso.<br/>
-          Dr.Eggman: Esto es una experiencia única para ti y para conocer el mundo, hija mía, disfruta de la competencia.
+          Dr.Eggman: Esto es una experiencia única para ti y para conocer el mundo, hija mía, disfruta de la competencia.<br/>
           Sage: Gracias, Padre!<br/>
           Metal Sonic: ...!<br/>
           Sage: Parece que Metal Sonic y yo nos enfrentaremos en la primera ronda de la competencia. Bueno, me servirá para calentar.
@@ -37,7 +37,7 @@ const Sage = () => {
           Amy: Hola, Sage. Compites contra mí, no?<br/>
           Sage: Amy? Me tengo que enfrentar a ella?<br/>
           Amy: Perfecto, yo aquí estoy listo para luchar contra ti, no te lo pondré fácil.<br/>
-          Sage: Según su análisis, emprendió viajes para compartir su amor con todo el munod, vamos a ver cuánto ha mejorado?
+          Sage: Según su análisis, emprendió viajes para compartir su amor con todo el mundo, vamos a ver cuánto ha mejorado?
         </p>
 
         <p>
@@ -50,7 +50,7 @@ const Sage = () => {
           Amy: Es porque en uno de los circuitos estaba el Chao Park, es uno de los lugares favoritos de Cream.<br/>
           Sage: Cream. Te refieres a la coneja que está con un amigo Chao?<br/>
           Amy: Esa, sí. Es mi mejor amiga y los dos formamos gran equipo, siempre vamos de aventuras para divertirnos.<br/>
-          Sage: No me esperaba eso,  una amistad similar a la de Sonic y Tails. Espero competir contra ella muy pronto para conocerla mejor.
+          Sage: No me esperaba eso, una amistad similar a la de Sonic y Tails. Espero competir contra ella muy pronto para conocerla mejor.
         </p>
 
         <p>
@@ -61,7 +61,7 @@ const Sage = () => {
           Blaze: Sage, no? La hija artifical de Eggman y la heredera del imperio.<br/>
           Sage: Tú eres Blaze The Cat. Te enfrentarás a mí en la DeathEgg Grand Prix para pasar a la siguiente clase?<br/>
           Blaze: Así es, te derrotaré en nombre de mí misma!<br/>
-          Sage: Proviene de otro mundo y dimensión similar al de Sonic. Quizás sea su contraparte
+          Sage: Proviene de otro mundo y dimensión similar al de Sonic. Quizás sea su contraparte.
         </p>
         
         <p>

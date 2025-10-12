@@ -38,7 +38,7 @@ const Omega = () => {
           Tails: Es normal que Omega esté así, siempre le encanta eliminar a esas cosas.<br/>
           Omega: Tails y Knuckles, espero que estéis listos, siendo amigos de Shadow y Rouge, pienso derrotaros en esa competencia.<br/>
           Tails: Tranquilo, Omega, después de todas las veces que te he reparado.<br/>
-          Rouge: Puede que Tails tenga algo de razón, venga Omega, hay que seguir con la competencia<br/>
+          Rouge: Puede que Tails tenga algo de razón, venga Omega, hay que seguir con la competencia.<br/>
           Omega: Afirmativo.
         </p>
 

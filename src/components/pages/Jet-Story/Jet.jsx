@@ -15,8 +15,8 @@ const Jet = () => {
           Jet: Je. Hablas de nosotros, no? Yo estoy aquí para ajustar cuentas de una vez por todas con Sonic The Hedgehog.<br/>
           Wave: Como siempre, eh? Veo que hay cosas que no cambian<br/>
           Storm: Sí, el jefe os va a echar papilla a todos.<br/>
-          Jet: Storm, sabes que es un todos contra todos, no? También os voy a echar papilla.
-          Storm: Ups!
+          Jet: Storm, sabes que es un todos contra todos, no? También os voy a echar papilla.<br/>
+          Storm: Ups!<br/>
           Dodon Pa: Bueno, pues prepárate para la siguiente carrera.<br/>
           Jet: Perfecto, allá voy!
         </p>

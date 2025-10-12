@@ -21,7 +21,7 @@ const Rouge = () => {
         <p>
           Vector: Eh, Rouge. Te podemos hacer una pregunta?
           Rouge: Si es por el dinero para compartir, olvidadlo, será todo mío.<br/>
-          Espio: Una de las razones por la que estamos aquí es porque tenemos cuentas pendientes con los encargos de nuestra agencia<br/>
+          Espio: Una de las razones por la que estamos aquí es porque tenemos cuentas pendientes con los encargos de nuestra agencia.<br/>
           Rouge: Y qué? Cada murcielago debe tener sus aventuras, no?<br/>
           Vector: Vaya, creo que va a ser más difícil de lo que parecía.<br/>
           Charmy: Y mira a mí, con lo que me había esforzado.

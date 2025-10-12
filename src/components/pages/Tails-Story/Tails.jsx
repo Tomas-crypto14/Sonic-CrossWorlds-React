@@ -37,7 +37,7 @@ const Tails = () => {
         <p>
           Sage: Dice que esto será pan comido ya que es solo el ayudante de Sonic<br/>
           Tails: Ya veréis, en la carrera no os lo pondré nada fácil. (El Team Eggman se aleja) Tendré que personalizar mi vehículo
-          debido a que mi velocidad es inferior al vehiculo de Metal
+          debido a que mi velocidad es inferior al vehiculo de Metal.
         </p>
 
         <p>

@@ -11,7 +11,7 @@ const EggPawn = () => {
 
         <p>
           Egg Pawn: ~...!<br/>
-          Eggman: No sé porque han invitiado a una de mis creaciones, pero espero que valga la pena.<br/>
+          Eggman: No sé porque han invitado a una de mis creaciones, pero espero que valga la pena.<br/>
           Sage: Según mis datos sobre él, parece que es como si fuera un robot experimentado en técncias de conducción, si gano todas
           las copas hasta llegar a la DeathEgg Grand Prix, podré luchar contra él para ponerlo a prueba.<br/>
           Eggman: Buena idea, mi niña, consiedralo como una orden de tu papaíto.<br/>

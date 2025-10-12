@@ -40,14 +40,14 @@ const Knuckles = () => {
         </p>
 
         <p>
-          Sonic: En serio? He perdido?
-          Knuckles: Jajaja! Te lo dije, Sonic, has mordido el polvo.
+          Sonic: En serio? He perdido?<br/>
+          Knuckles: Jajaja! Te lo dije, Sonic, has mordido el polvo.<br/>
           Dodon Pa: Veo que estás muy emocionado cuando te enfrentas a rivales fuertes.<br/>
           Knuckles: Así es, Dodon Pa. Contra quién me enfrentaré en la Death Egg Grand Prix para pasar a la siguiente clase?<br/>
           Dodon Pa: Jojojo, pues contra el cocodrilo, ganó esa copa antes que tú.<br/>
           Knuckles: Vector?<br/>
           Vector: Así es, compadre, me enfrentaré a ti. A ver cual es el más fuerte y potente.<br/>
-          Knuckles: Jeje, ya lo veremos.<br/>
+          Knuckles: Jeje, ya lo veremos.
         </p>
 
         <p>

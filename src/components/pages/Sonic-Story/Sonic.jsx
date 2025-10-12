@@ -41,7 +41,7 @@ const Sonic = () => {
       </p>
 
       <p>
-        (Al ganar los Gran Premio Wisp, Boo Boom y Calabaza)
+        (Al ganar los Grand Prix Wisp, Boo Boom y Calabaza)
       </p>
 
       <p>
@@ -50,7 +50,7 @@ const Sonic = () => {
       </p>
 
       <p>
-        (Al ganar la copa Coral)
+        (Al ganar el Grand Prix Coral)
       </p>
 
       <p>
@@ -60,7 +60,7 @@ const Sonic = () => {
       </p>
 
       <p>
-        (Al ganar la Copa Crystal)
+        (Al ganar el Grand Prix Crystal)
       </p>
 
       <p>

@@ -16,7 +16,7 @@ const Charmy = () => {
           Sage: Yo no diría eso.<br/>
           Charmy: Ahhh! Fantasma!<br/>
           Vector: No es un fantasma, Charmy. Es la hija inteligencia artifical de Eggman. Sage, no?<br/>
-          Sage: Sí, es un placer. Muy pronto nos enfrentaremos en la competencia, así que prepárate a fondo<br/>
+          Sage: Sí, es un placer. Muy pronto nos enfrentaremos en la competencia, así que prepárate a fondo.
         </p>
 
         <p>
