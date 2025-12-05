@@ -27,7 +27,7 @@ const Jet = () => {
 
         <p>
           Jet: A eso llamáis competencia? Acabo de barrer a todos incluido al rival sin ningún problema.<br/>
-          Wave: Jet, eso es porque estás en la primera clase de la competencia, cuanto más avanzes, más complciado será.<br/>
+          Wave: Jet, eso es porque estás en la primera clase de la competencia, cuanto más avanzes, más complicado será.<br/>
           Jet: Ah, ahora explica todo eso. Ok, gracias.
         </p>
 
