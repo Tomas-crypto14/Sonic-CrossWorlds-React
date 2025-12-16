@@ -16,7 +16,7 @@ const Wave2 = () => {
        <p>
         Tails: Tu Extreme Gear sigue siendo fascinante como siempre, Wave!<br/>
         Wave: Tampoco te quedes embobado, chiquillo, aún me queda por pasar a la siguiente clase ganando las otras copas que me faltan<br/>
-        Tails: Para eso primero tendrás que enfrentarte a Amy, y sobretodo a Sage.<br/>
+        Storm: Para eso primero tendrás que enfrentarte a Amy, y sobretodo a esa hija de Eggman, Sage.<br/>
         Wave: Pues ya me aseguraré de que pierdan.
        </p>
 
