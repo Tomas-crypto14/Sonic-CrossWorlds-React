@@ -8,6 +8,10 @@ const Tails3 = () => {
     <div id="container-race">
         <h2>Historia de Tails</h2>
         <h3>Velocidad SuperSonic</h3>
+
+        <p>
+          Tails: Por fin llegó la última clase, donde se encuentran los campeones, tengo que ir a por todas para llevarme el premio.
+        </p>
         <HeaderTails/>
           <Routes>
             <Route path="/Tails" element={<Tails/>}/>
